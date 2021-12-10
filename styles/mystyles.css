@@ -1,0 +1,33 @@
+h2{
+    color: rgb(0, 0, 0);
+    font-family: fantasy;
+    text-decoration: underline;
+}
+
+
+
+.centervideo{
+    display: block;
+    margin: 0 auto;
+    text-align: center;
+}
+
+
+h3{
+    color: rgb(0, 0, 0);
+    font-family: fantasy;
+}
+
+body{
+    background-color: rgb(233, 250, 255);
+}
+
+p{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+}
+
+.link{
+    font-style: italic;
+    text-decoration: underline;
+}
